@@ -1,7 +1,7 @@
 # Homebrew Tap for HyperIdle
 
 ```bash
-brew tap ambrovia/tap
+brew tap idle-builders/tap
 brew install --cask hyperidle
 ```
 
