@@ -1,6 +1,6 @@
 cask "hyperidle" do
   version "0.5.0"
-  url "https://github.com/ambrovia/hyperidle-releases/releases/download/v#{version}/HyperIdle-#{version}-arm64.dmg"
+  url "https://github.com/idle-builders/hyperidle/releases/download/v#{version}/HyperIdle-#{version}-arm64.dmg"
   sha256 "8ba12ff280241223d5e7fbc3a0fdd5e0a857ed0c33aba48eaa3f659e9ae69cb8"
 
   name "HyperIdle"
